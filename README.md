@@ -3,7 +3,7 @@
 ## 💡 About Me
 Hi, My name is Lesley and I am, a product-focused Software Product Manager with a deep passion for cloud engineering, cybersecurity, and DevOps automation. I build secure, scalable systems across Azure, AWS, and GCP — all while bringing automation, security, and performance into every layer of the cloud stack.
 
-🛠️ Tagline: *"Turning security-first cloud architecture into deployable reality."
+🛠️ "Turning security-first cloud architecture into deployable reality."
 
 ---
 
