@@ -48,4 +48,4 @@ Click into the repo folders to download:
 - 🌐 [LinkedIn](https://linkedin.com/)
 - 📧 Email: lbanser@me.com
 
-Thanks for visiting — feel free to explore, fork, or reach out!
+Thanks for visiting — feel free to explore or reach out!
