@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## 🛠️ About Me
-Hi, My name is Lesley and I am, a product-focused Software Product Manager with a deep passion for cloud engineering, cybersecurity, and DevOps automation. I build secure, scalable systems across Azure, AWS, and GCP — all while bringing automation, security, and performance into every layer of the cloud stack.
+Hi, My name is Lesley and I am, a product-focused Software Product Manager with a deep passion for Cloud Engineering, Cybersecurity, and DevOps Automation. I build secure, scalable systems across Azure, AWS, and GCP, all while bringing automation, security, and performance into every layer of the cloud stack.
 
 💡 "Be so good that they can't ignore you" Steve Martin 
 
