@@ -46,6 +46,6 @@ Click into the repo folders to download:
 
 ## 📬 Let's Connect!
 - 🌐 [LinkedIn](https://linkedin.com/)
-- 📧 Email: lbanser@me.com
+- 📧 Email: A Suivre.....
 
 Thanks for visiting — feel free to explore or reach out!
